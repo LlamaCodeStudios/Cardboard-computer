@@ -33,7 +33,7 @@ Colourstreak uses small painted squares and LED's to make a custom display inter
 
 ## 📖 Documentation Wiki
 
-Everything you need to build and expand Colourstreak is organized in the [📚 Colourstreak Project Wiki](./wiki):
+Everything you need to build and expand Colourstreak is organized in the [📚 Colourstreak Project Wiki](https://github.com/LlamaCodeStudios/Colourstreak/wiki):
 
 | Part | Section                            | What You'll Find                               |
 |------|-------------------------------------|------------------------------------------------|
@@ -50,7 +50,7 @@ Everything you need to build and expand Colourstreak is organized in the [📚 C
 
 ## 🚀 Get Started
 
-1. Visit the **[Wiki](./wiki)** and read through Part 1 to gather your components.
+1. Visit the **[Wiki](https://github.com/LlamaCodeStudios/Colourstreak/wiki)** and read through Part 1 to gather your components.
 2. Follow the build steps and flash the firmware.
 3. Power it up, connect wirelessly, and let it boot up!
 
