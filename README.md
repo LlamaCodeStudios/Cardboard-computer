@@ -4,6 +4,9 @@
 
 ---
 
+## Warning ⚠️
+Colourstreak has NOT yet been tested. Proceed at your own risk.
+
 ## 💡 What is Colourstreak?
 
 Colourstreak uses small painted squares and LED's to make a custom display intergrated into cardboard. Using sensors, wireless connectivity, and customizable firmware, it can:
