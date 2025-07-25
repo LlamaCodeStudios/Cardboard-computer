@@ -1,6 +1,6 @@
 ### 🎨 The Colourstreak Cardboard Computer
 
-**Colourstreak** is a modular, sensor-reactive cardboard computer powered by ESP32 and Arduino. It’s designed for enthusiasts and peopel who want to try somthing new as a proper challenge.
+**Colourstreak** is a modular, sensor-reactive cardboard computer powered by ESP32 and Arduino. It’s designed for enthusiasts who want to try somthing new but also have a hard challenge.
 
 ---
 
