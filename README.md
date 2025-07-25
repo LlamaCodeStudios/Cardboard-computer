@@ -4,7 +4,7 @@
 
 ---
 
-## Warning ⚠️
+### Warning ⚠️
 Colourstreak has NOT yet been tested. Proceed at your own risk.
 
 ## 💡 What is Colourstreak?
