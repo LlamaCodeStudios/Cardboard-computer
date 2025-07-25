@@ -33,7 +33,8 @@ Colourstreak uses small painted squares and LED's to make a custom display inter
 
 ## 📖 Documentation Wiki
 
-Everything you need to build and expand Colourstreak is organized in the [📚 Colourstreak Project Wiki](https://github.com/LlamaCodeStudios/Colourstreak/wiki):
+Everything you need to build and expand Colourstreak is organized in the 
+[📚 Colourstreak Project Wiki](https://github.com/LlamaCodeStudios/Colourstreak/wiki):
 
 | Part | Section                            | What You'll Find                               |
 |------|-------------------------------------|------------------------------------------------|
